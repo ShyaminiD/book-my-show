@@ -1,6 +1,7 @@
 import "./App.css";
 import Signin from "./Signin";
 import Navigationbar from "./Navbar";
+import Navbarsmall from "./Navbarsmall";
 import Button from "react-bootstrap/Button";
 const movies = [
   {
@@ -128,6 +129,7 @@ function App() {
   return (
     <div className="App">
       <Navigationbar />
+      <Navbarsmall/>
  
      
     </div>
