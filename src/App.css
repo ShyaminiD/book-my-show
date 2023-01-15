@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
-.modal-content{
-  height:500px;
+.modal-content {
+  height: 500px;
 }
+
+/* .carousel-item {
+  margin-right: auto;
+  margin-left :auto;
+} */
